@@ -7,14 +7,6 @@ I have built and improved the model through multiple iterations to enhance accur
 
 ---
 
-## 📂 Project Structure
--
-/regression 
-├── /linearregression 
-│ ├── House_Price_Prediction_Model_Part_1_Accuracy_55.68 
-│ └── House_Price_Prediction_Model_Part_2_Accuracy_64.37 
----
-
 ## 🎯 About the Models
 1. **Part 1 - Accuracy 55.68%**  
    - Basic feature engineering with minimal improvements.
