@@ -21,11 +21,6 @@ I have built and improved the model through multiple iterations to enhance accur
 ## ⚡️ Run the Models
 ```bash
 # Clone the repo
-git clone https://github.com/your_username/house-price-prediction.git
+git clone https://github.com//Prince200510/AI-ML.git
 cd regression/linearregression
 
-# Run Part 1 Model
-python House_Price_Prediction_Model_Part_1_Accuracy_55.68.py
-
-# Run Part 2 Model
-python House_Price_Prediction_Model_Part_2_Accuracy_64.37.py
